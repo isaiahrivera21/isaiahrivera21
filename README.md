@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an engineering student focused on machine learning, signal processing, and autonomous systems, with experience developing full-stack applications and data-driven models. I apply practical solutions, clean code, and collaborative development to real-world projects.
+I am an engineering student focused on machine learning, signal processing, and autonomous systems, with experience developing full-stack applications and data-driven models. I apply practical solutions, clean code, and collaborative development to real-world projects.<br>
 <br>Studying Electrical Engineering at The Cooper Union<br>
 
 <br> ML Engineer at Mt Sinai NYEE<br>
