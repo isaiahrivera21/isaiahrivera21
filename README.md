@@ -1,8 +1,8 @@
 # 💫 About Me:
-Machine Learning Engineer <br>Studying Electrical Engineering at The Cooper Union<br>Currently Learning about 
-* Frequentist Machine Learning
-* Reinforcement Learning
-* Speech and Audio Processing <br>
+Machine Learning Engineer <br>Studying Electrical Engineering at The Cooper Union<br>Currently Learning about:
+* 🧠 Frequentist Machine Learning 
+* 🤖 Reinforcement Learning 
+* 🔊 Speech and Audio Processing <br>
 
 
 ## 🌐 Socials:
