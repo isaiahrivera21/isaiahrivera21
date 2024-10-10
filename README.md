@@ -5,7 +5,7 @@ I am an engineering student focused on machine learning, signal processing, and 
 <br>* Currently Learning about:
 *  Frequentist Machine Learning 🧠
 *  Reinforcement Learning 🤖
-* Speech and Audio Processing <br> 🔊 
+* Speech and Audio Processing 🔊 <br> 
 
 
 ## 🌐 Socials:
